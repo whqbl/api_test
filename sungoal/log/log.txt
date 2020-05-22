@@ -1,0 +1,126 @@
+[2020-05-21 09:56:43] ERROR [test_user_login_normal: test_user_login.py, 26] 用例数据不存在
+[2020-05-21 09:57:54] ERROR [test_user_login_normal: test_user_login.py, 26] 用例数据不存在
+[2020-05-21 10:03:18] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:03:18] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:05:00] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:05:00] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:05:14] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:05:14] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:05:23] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:05:23] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:07:07] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:07:07] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:12:03] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:12:03] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:13:53] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:13:53] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:17:41] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:17:41] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:20:03] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:20:03] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:20:17] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:20:17] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:20:52] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:20:52] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:21:56] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:21:56] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:23:11] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:23:11] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:31:30] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:31:30] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:31:53] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:31:53] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:34:49] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:34:49] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:35:04] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:35:04] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:35:36] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:35:37] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:39:53] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:39:53] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:40:27] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:40:27] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:40:48] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:40:48] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:41:19] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:41:19] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:41:49] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:41:49] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:55:05] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:55:05] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:55:41] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:55:42] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:55:55] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:55:55] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:57:48] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:57:48] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:58:22] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:58:22] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:58:54] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:58:54] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 10:59:30] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 10:59:30] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 11:12:12] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 11:12:12] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 11:12:12] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 11:12:12] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 11:12:13] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 11:12:13] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 11:13:02] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 11:13:02] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 11:20:38] INFO [<module>: run_all.py, 14] ================================== 测试开始 ==================================
+[2020-05-21 11:25:56] INFO [<module>: run_all.py, 14] ================================== 测试开始 ==================================
+[2020-05-21 11:28:21] INFO [<module>: run_all.py, 14] ================================== 测试开始 ==================================
+[2020-05-21 11:28:21] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 11:28:21] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 11:28:21] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 11:28:22] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 11:28:22] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 11:28:22] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 11:28:23] INFO [send_email: send_email.py, 51] 邮件发送完成！
+[2020-05-21 11:28:23] INFO [<module>: run_all.py, 23] ================================== 测试结束 ==================================
+[2020-05-21 11:36:58] INFO [<module>: run_all.py, 14] ================================== 测试开始 ==================================
+[2020-05-21 11:36:58] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 11:36:58] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 11:36:58] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 11:36:58] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 11:36:58] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 11:36:58] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 11:41:24] INFO [<module>: run_all.py, 14] ================================== 测试开始 ==================================
+[2020-05-21 11:41:24] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 11:41:24] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 11:41:24] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 11:41:24] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 11:41:24] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 11:41:24] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 11:41:24] INFO [send_email: send_email.py, 52] 邮件发送完成！
+[2020-05-21 11:41:24] INFO [<module>: run_all.py, 23] ================================== 测试结束 ==================================
+[2020-05-21 11:42:50] INFO [<module>: run_all.py, 14] ================================== 测试开始 ==================================
+[2020-05-21 11:42:50] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 11:42:51] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 11:42:51] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 11:42:51] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 11:42:51] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 11:42:51] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 11:42:51] INFO [send_email: send_email.py, 52] 邮件发送完成！
+[2020-05-21 11:42:51] INFO [<module>: run_all.py, 23] ================================== 测试结束 ==================================
+[2020-05-21 14:16:09] INFO [<module>: run_all.py, 14] ================================== 测试开始 ==================================
+[2020-05-21 14:51:54] INFO [<module>: run_all.py, 14] ================================== 测试开始 ==================================
+[2020-05-21 14:51:54] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 14:51:54] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 14:51:54] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 14:51:55] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 14:51:55] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 14:51:55] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 14:51:55] INFO [<module>: run_all.py, 24] ================================== 测试结束 ==================================
+[2020-05-21 14:53:59] INFO [<module>: run_all.py, 14] ================================== 测试开始 ==================================
+[2020-05-21 14:54:46] INFO [<module>: run_all.py, 14] ================================== 测试开始 ==================================
+[2020-05-21 15:05:32] INFO [<module>: run_all.py, 14] ================================== 测试开始 ==================================
+[2020-05-21 15:06:15] INFO [<module>: run_all.py, 14] ================================== 测试开始 ==================================
+[2020-05-21 15:06:15] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 15:06:16] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 15:06:16] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 15:06:16] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 15:06:16] DEBUG [_new_conn: connectionpool.py, 959] Starting new HTTPS connection (1): t-gw.juzhanhui.com:443
+[2020-05-21 15:06:16] DEBUG [_make_request: connectionpool.py, 437] https://t-gw.juzhanhui.com:443 "POST /api/user/business/login/v2.0/loginByPassword HTTP/1.1" 200 None
+[2020-05-21 15:06:16] INFO [<module>: run_all.py, 23] ================================== 测试结束 ==================================
