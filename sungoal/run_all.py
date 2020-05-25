@@ -20,4 +20,6 @@ with open(report_file,'wb') as f:
 
 # send_email(report_file)
 
+
+
 logging.info('================================== 测试结束 ==================================')
